@@ -1,4 +1,4 @@
-![1634833159437](https://user-images.githubusercontent.com/92377177/155591444-d20953bc-50e6-41e8-a57f-ea1eb139b347.jpg)
+![23756920251_04f52d2d05_b](https://user-images.githubusercontent.com/92377177/155591875-70b0313f-48f0-4a99-aa59-aacda6ec5f22.jpg)
 
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">A motivated, energetic, and collaborative critical thinking Data Scientist from Seattle</h3>
