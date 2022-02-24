@@ -8,12 +8,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenaddison" alt="stevenaddison" /></a> </p>
 I am experienced in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in eCommerce and product development, I bring strong skills in managing ambiguity and cross-functioning teams to deliver results both based on intuition and ingenuity. 
 
-- 📫 How to reach me **steven.e.addison@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/addisonse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="addisonse" height="30" width="40" /></a>
-<a href="https://medium.com/@stevenaddison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stevenaddison" height="30" width="40" /></a>
+<a href="mailto:steven.e.addison@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/google/noto-emoji-objects/1024/62895-closed-mailbox-with-raised-flag-icon.png" height="38" width="38" /></a>
+</p>
+
+<h3 align="left">Connect:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/addoisonse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-addison" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
