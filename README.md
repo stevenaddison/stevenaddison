@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenaddison&label=Profile%20views&color=0e75b6&style=flat" alt="stevenaddison" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenaddison" alt="stevenaddison" /></a> </p>
-
+I am experienced in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in eCommerce and product development, I bring strong skills in managing ambiguity and cross-functioning teams to deliver results both based on intuition and ingenuity. 
 - 📫 How to reach me **steven.e.addison@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
