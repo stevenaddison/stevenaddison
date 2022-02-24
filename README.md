@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenaddison" alt="stevenaddison" /></a> </p>
 I am experienced in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and NLP. With a background in eCommerce and product development, I bring strong skills in managing ambiguity and cross-functioning teams to deliver results both based on intuition and ingenuity. 
 
-h3 align="left">Contact:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="mailto:steven.e.addison@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/google/noto-emoji-objects/1024/62895-closed-mailbox-with-raised-flag-icon.png" height="38" width="38" /></a>
 </p>
